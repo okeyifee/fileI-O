@@ -1,0 +1,10 @@
+
+completed:
+* creating a hashmap for the given enviroment
+* copying from given file(if it exists) to appropriate hashmap
+* returning value of user inputted key (from the appropriate hashmap)
+* passing enviroment as command line argument
+* if multiple values exists for a given key, output the first
+* if while copying from file, the scanner meets a line like this: [application], this should be appended to the next
+
+
